@@ -1,4 +1,4 @@
-iops-puppetmaster-code
+swift-puppet
 ======================
 
-Current code on puppetmaster running on cacti host
+Puppet manifests and files used in automation demo, 2013-05-21
